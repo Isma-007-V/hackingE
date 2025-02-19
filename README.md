@@ -9,11 +9,3 @@ Pasos para instalar el proyecto.
 ## Uso
 
 Cómo usar el proyecto.
-
-## Contribución
-
-Instrucciones para contribuir al proyecto.
-
-## Licencia
-
-Información sobre la licencia.
